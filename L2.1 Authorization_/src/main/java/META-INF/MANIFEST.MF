@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: main.Main
+Class-Path: jetty-xml-9.3.0.M0.jar jetty-http-9.3.0.M0.jar gson-2.3.1.ja
+ r jetty-webapp-9.3.0.M0.jar jetty-servlet-9.3.0.M0.jar jetty-server-9.3
+ .0.M0.jar jetty-io-9.3.0.M0.jar jetty-util-9.3.0.M0.jar javax.servlet-a
+ pi-3.1.0.jar jetty-security-9.3.0.M0.jar
+
